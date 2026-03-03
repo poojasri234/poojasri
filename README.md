@@ -1,67 +1,94 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=28&duration=3000&color=2F80ED&center=true&vCenter=true&width=900&lines=Business+%2F+Data+Analyst;SQL+%7C+Excel+%7C+Power+BI;KPI+Reporting+%26+Data+Quality;Turning+Data+Into+Decisions" />
-</div>
+# I'm Poojasri Medikonda 👋
+
+I enjoy solving business problems using data and building stakeholder-ready reporting.  
+My work focuses on KPI dashboards, data validation, and operational and financial insights using SQL, Excel, Power BI, and Python.
 
 ---
 
-# Poojasri Medikonda
-
-<div align="center">
-
-### Business / Data Analyst | SQL • Excel • Power BI • Python  
-Stakeholder-ready reporting • KPI dashboards • Data validation
-
-Open to Pune & Hyderabad
-
-</div>
-
----
-
-## Professional Profile
-Results-driven Business / Data Analyst focused on KPI reporting, data validation, and dashboarding.  
-I build accurate, repeatable reporting workflows using SQL and automation, and present insights through clean Power BI and Excel dashboards.
-
----
-
-## Industry Focus
-- Operations & KPI Monitoring
-- Business Performance Reporting
-- Financial Variance & Trend Analysis
-- Data Quality & Governance (validation, reconciliation)
-
----
-
-## Technical Skills
-- **SQL:** Joins, CTEs, Aggregations, Validation Queries
-- **Excel:** Pivot Tables, XLOOKUP, Reconciliation
-- **Power BI:** KPI Dashboards, Trend & Variance Analysis (DAX as needed)
-- **Python:** Pandas, NumPy (automation and analysis)
-- **Data Quality:** completeness, consistency, deduplication, integrity checks
-
----
-
-## Portfolio Projects (building now)
-- **SLA & Backlog Efficiency Dashboard** (SQL + Power BI + Excel) — *In progress*
-- **Data Quality & Governance Scorecard** (SQL + Python + Power BI) — *In progress*
-- **Financial Performance Monitoring + Variance Analysis** (SQL + Power BI + Excel) — *In progress*
-
-> I will pin these repositories as I publish each project.
-
----
-
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poojasri234&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojasri234&layout=compact&hide_border=true" height="150"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poojasri234&theme=minimal" />
-</div>
-
----
-
-## Contact
-- Email: poojasrimedikonda@gmail.com
+## 🤝 Connect with me
+- Email: **poojasrimedikonda@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/poojasree23
 - GitHub: https://github.com/poojasri234
+- Portfolio Website: poojasri234.github.io
+
+---
+
+## 💼 Professional Skills (Data Analyst)
+
+### Analytics & Reporting
+- KPI definition and metric standardization (clear definitions, consistent logic)
+- Exploratory data analysis (EDA) and trend analysis (WoW, MoM)
+- Variance analysis and driver decomposition (what changed, why it changed)
+- Segmentation and Top-N analysis for business insights
+- Executive-ready reporting: concise summaries and action-focused insights
+
+### SQL (Analytics)
+- Joins, CTEs, aggregations, subqueries, window functions (ROW_NUMBER, RANK)
+- Building reporting tables and reusable queries for recurring reporting
+- Data validation queries: duplicates, missing values, invalid categories, referential checks
+- Performance awareness: filtering early, avoiding double-counting, query readability
+
+### Power BI (Dashboarding)
+- Data modeling basics (star schema thinking, relationships)
+- Measure logic (DAX basics), KPI cards, drilldowns, filters/slicers
+- Dashboard design: visual hierarchy, consistent layout, clarity over clutter
+- Stakeholder dashboards for monitoring performance and exceptions
+
+### Excel (Analyst Toolkit)
+- Pivot tables/charts, slicers, structured reporting templates
+- XLOOKUP / INDEX-MATCH, SUMIFS/COUNTIFS, basic reconciliation models
+- Data cleaning and validation checks for accuracy
+
+### Data Quality & Documentation
+- Completeness, validity, uniqueness (dedup), consistency checks
+- Reconciliation controls (source vs report tie-outs)
+- Data dictionary, assumptions log, metric catalog for audit-ready reporting
+- Versioned reporting logic and repeatable workflows
+
+### Collaboration & Delivery
+- Requirements clarification (business question → KPI → dashboard)
+- Stakeholder communication: status updates, clear handoffs, documentation
+- Structured problem-solving: define → analyze → validate → recommend
+
+---
+
+## 🧰 Tech Stack
+<p align="left">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-1F2937?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Portfolio Projects
+- **SLA & Backlog Efficiency Dashboard**  
+  KPI: SLA on-time %, backlog aging buckets, breach reasons, queue performance
+
+- **Data Quality & Governance Scorecard**  
+  Checks: missing values, duplicates, invalid formats, consistency rules + score trend
+
+- **Financial Performance Monitoring + Variance Analysis**  
+  KPIs: revenue, cost, margin %, MoM variance drivers + executive summary
+
+---
+
+## ✅ What you’ll find in each project repo
+- Dataset + data dictionary
+- Clean SQL queries + validation checks
+- Dashboard screenshots (Power BI)
+- A short insight summary (1 page)
+
+---
+
+**Open to Pune & Hyderabad.**
