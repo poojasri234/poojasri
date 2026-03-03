@@ -9,7 +9,7 @@ My work focuses on KPI dashboards, data validation, and operational and financia
 - Email: **poojasrimedikonda@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/poojasree23
 - GitHub: https://github.com/poojasri234
-- Portfolio Website: poojasri234.github.io
+- Portfolio Website:  https://poojasri234.github.io/
 
 ---
 
