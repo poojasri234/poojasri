@@ -1,9 +1,9 @@
-# I'm Poojasri Medikonda 👋
+## Poojasri Medikonda | Data Analyst
 
-I enjoy solving business problems using data and building stakeholder-ready reporting.  
-My work focuses on KPI dashboards, data validation, and operational and financial insights using SQL, Excel, Power BI, and Python.
+ Hi, I'm Poojasri. A passionate Data Analyst focused on KPI reporting, data quality, and stakeholder-ready dashboards.  
+SQL • Python • Power BI • Excel • Automation | Tableau | PySpark (Learning)
 
----
+
 
 ## 🤝 Connect with me
 - Email: **poojasrimedikonda@gmail.com**
@@ -50,25 +50,36 @@ My work focuses on KPI dashboards, data validation, and operational and financia
 - Stakeholder communication: status updates, clear handoffs, documentation
 - Structured problem-solving: define → analyze → validate → recommend
 
+### Data & Reporting Skills
+- Spreadsheets: Pivot reporting, reconciliation models, exception trackers
+- Statistical methods: descriptive stats, trend/variance analysis, basic outlier checks
+- Data management: cleaning, validation, consistency checks, data dictionaries
+- Data visualization: dashboard design, drilldowns, KPI storytelling
+- Professional strengths: attention to detail, communication, teamwork, curiosity
+
 ---
 
 ## 🧰 Tech Stack
 <p align="left">
+  <img alt="Git" src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-1F2937?style=for-the-badge&logo=tableau&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-2F80ED?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=keras&logoColor=white" />
+  <img alt="Data Cleaning" src="https://img.shields.io/badge/Data%20Cleaning-334155?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img alt="Automation" src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img alt="PySpark (Learning)" src="https://img.shields.io/badge/PySpark%20(Learning)-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-
 ---
 
 ## 📌 Featured Portfolio Projects
