@@ -102,4 +102,4 @@ SQL • Python • Power BI • Excel • Automation | Tableau | PySpark (Learni
 
 ---
 
-**Open to Pune & Hyderabad.**
+
